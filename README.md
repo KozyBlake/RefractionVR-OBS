@@ -8,3 +8,7 @@ Instructions:
 4. Close obs, and then reopen obs shortcut.
 
 I specifically design this portable version for moderating in VRchat. I want to make it easy to document and report issues in VRchat.
+
+
+GitHub said my project was too large, so I had to upload it to Google Drive. Here's the link:
+https://drive.google.com/file/d/1R-Xuj_3yGC9kBidkXKO86Dz2ncss3vIa/view?usp=drive_link

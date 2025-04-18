@@ -6,8 +6,11 @@ Records video at 720P at 30 FPS.
 This version is fixed for AMD GPU's, along with removing unnesscary files that aren't needed to run OBS, or just, junk.
 
 To run this, all you need to do is download the file, and extact the .zip contents into your C: drive.
+
 Once that is done, go to that folder you put in your C: drive, and send the already created shortcut to your desktop.
+
 You will be required to fix your microphone input and your speaker output when installed.
+
 All videos are stored in "C:\RefractionVR-OBS\recordings". You can change this if you prefer to have your videos elsewhere. 
 
 

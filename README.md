@@ -1,14 +1,13 @@
 # RefractionVR-OBS
-Portable Version of OBS for recording. Has UTC unix time clock. Makes audio/timeline markers on chan 6, and makes 4 minute clips with hotkey page down. 
-RecordS video at 720P at 30 FPS
-Instructions:
-1. Download file RefractionVR-OBS, and place file in C:\
-2. Open file RefractionVR-OBS and copy shortcut Refraction_OBS - Shortcut then paste shortcut on desktop.
-3. Open shortcut on desktop, and then go to settings output recording tab and change your recording path to your desired location. Click apply and then OK.
-4. Close obs, and then reopen obs shortcut.
 
-I specifically design this portable version for moderating in VRchat. I want to make it easy to document and report issues in VRchat.
+This is Refraction's portable version of OBS for recording. Has UTC unix time clock. Makes audio/timeline markers on chan 6, and makes 4 minute clips with hotkey page down. 
+Records video at 720P at 30 FPS.
+
+This version is fixed for AMD GPU's, along with removing unnesscary files that aren't needed to run OBS, or just, junk.
+
+To run this, all you need to do is download the file, and extact the .zip contents into your C: drive.
+Once that is done, go to that folder you put in your C: drive, and send the already created shortcut to your desktop.
+You will be required to fix your microphone input and your speaker output when installed.
+All videos are stored in "C:\RefractionVR-OBS\recordings". You can change this if you prefer to have your videos elsewhere. 
 
 
-GitHub said my project was too large, so I had to upload it to Google Drive. Here's the link:
-https://drive.google.com/file/d/1R-Xuj_3yGC9kBidkXKO86Dz2ncss3vIa/view?usp=drive_link
